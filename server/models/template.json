@@ -1,0 +1,14 @@
+{title: "A Brief History of Time", genre: "Science", description: "A landmark volume in science writing by one of the great minds of our time, Stephen Hawking’s book explores such profound questions as: How did the universe begin—and what made its start possible?", author: "Stephen Hawking",publisher: "Bantam; 10th Anniversary edition (September 1, 1998)", pages: "240 pages", image_url: "https://images-na.ssl-images-amazon.com/images/I/61AXTZgNr4L._SX345_BO1,204,203,200_.jpg", buy_url: "https://www.amazon.com/Brief-History-Time-Other-Essays/dp/0553109537/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=&dpID=61AXTZgNr4L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=detail"}
+
+{title: "The Paper Magician (The Paper Magician Series)", genre: "History", description: "Ceony Twill arrives at the cottage of Magician Emery Thane with a broken heart. Having graduated at the top of her class from the Tagis Praff School for the Magically Inclined, Ceony is assigned an apprenticeship in paper magic despite her dreams of bespelling metal.", author: "Charlie N. Holmberg", publisher: "47North (September 1, 2014)", pages: "224 pages", image_url:"https://images-na.ssl-images-amazon.com/images/I/41mKb72zJoL._SX332_BO1,204,203,200_.jpg", buy_url: "https://www.amazon.com/Paper-Magician/dp/1477823832/ref=sr_1_1?s=books&ie=UTF8&qid=1509696908&sr=1-1&refinements=p_lbr_one_browse-bin%3ACharlie+N.+Holmberg"}
+
+{	
+	"title": "To Kill a Mockingbird",
+	"genre": "Science",
+	"description": "One of the best-loved stories of all time, To Kill a Mockingbird has been translated into more than forty languages, sold more than forty million copies worldwide, served as the basis for an enormously popular motion picture, and was voted one of the best novels of the twentieth century by librarians across the country.",
+	"author": "Harper Lee",
+	"publisher": "Harper Perennial Modern Classics (2002)",
+	"pages": "336 pages",
+	"image_url":"https://images-na.ssl-images-amazon.com/images/I/51gSriWepkL._SX330_BO1,204,203,200_.jpg",
+	"buy_url": "https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0060935464/ref=sr_1_3?s=books&ie=UTF8&qid=1509697408&sr=1-3&keywords=mockingbird"
+}
